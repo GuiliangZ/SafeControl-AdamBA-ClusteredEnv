@@ -26,8 +26,8 @@ For efficiency results of the safety shield algorithm incorporating with the bas
 
 
 The safety and efficient results of all models are shown below
-![SafetyComparison_Models](docs/SafetyComparison-Models.png)
 ![SafetyComparison_NumbersofObstacles](docs/SafetyComparison-NumbersofObstacles.png)
+![SafetyComparison_Models](docs/SafetyComparison-Models.png)
 ![SafetyComparison_SampleResolutions](docs/SafetyComparison-SampleResolutions.png)
 ![efficiency_result](docs/EfficiencyResults.png)
 
