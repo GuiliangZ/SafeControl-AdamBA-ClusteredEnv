@@ -40,6 +40,7 @@ SafetyComparison_SampleResolutions:
 
 
 Efficiency_result:
+
 ![efficiency_result](docs/EfficiencyResults.png)
 
 
