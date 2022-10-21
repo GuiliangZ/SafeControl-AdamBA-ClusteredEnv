@@ -26,13 +26,29 @@ For efficiency results of the safety shield algorithm incorporating with the bas
 
 
 The safety and efficient results of all models are shown below
+
+SafetyComparison_NumbersofObstacles:
 ![SafetyComparison_NumbersofObstacles](docs/SafetyComparison-NumbersofObstacles.png)
+
+
+SafetyComparison_Models:
 ![SafetyComparison_Models](docs/SafetyComparison-Models.png)
+
+
+SafetyComparison_SampleResolutions:
 ![SafetyComparison_SampleResolutions](docs/SafetyComparison-SampleResolutions.png)
+
+
+Efficiency_result:
 ![efficiency_result](docs/EfficiencyResults.png)
 
+
 We also provide visulization of sample trajectories for two main algorithms.
+
+trajectories_ModifiedAdamBA:
 ![trajectories_ModifiedAdamBA](docs/SampleTrajectoriesModifiedAdamBA.png)
+
+trajectories_VanillaAdamBA:
 ![trajectories_VanillaAdamBA](docs/SampleTrajectoriesVanillaAdamBA.png)
 
 
