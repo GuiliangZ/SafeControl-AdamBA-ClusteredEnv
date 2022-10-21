@@ -1,6 +1,5 @@
-# This is the corresponding code for the paper docs/Model Free Safe Control for Reinforcement Leraning in a Clustered Dynamic Environment.pdf
-
 # Model-Free-Safe-Control-for-Reinforcement-Learning-in-a-Clustered-Dynamic-Environment
+This is the corresponding code for the paper <Model Free Safe Control for Reinforcement Leraning in a Clustered Dynamic Environment>
 
 ## Table of Contents
 - [Introduction](#Introduction)
