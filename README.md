@@ -19,7 +19,7 @@ For testing effectiveness of safety shield, we test the algorithms in different 
 1, different number of obstacles 
 2, different sampling resolutions for AdamBA algorithm
 
-For efficiency results of the safety shield algorithm incorporating with the basic RL algorihtms, we inherited the exploration strategies from Hongyi's paper:
+For efficiency results of the safety shield algorithm incorporating with the basic RL algorihtms, we inherited the exploration strategies from previous paper:
 1, Adapting SSA;  
 2, Exploration (PSN, RND, None);  
 3, Learning from SSA;  
@@ -28,14 +28,17 @@ For efficiency results of the safety shield algorithm incorporating with the bas
 The safety and efficient results of all models are shown below
 
 SafetyComparison_NumbersofObstacles:
+
 ![SafetyComparison_NumbersofObstacles](docs/SafetyComparison-NumbersofObstacles.png)
 
 
 SafetyComparison_Models:
+
 ![SafetyComparison_Models](docs/SafetyComparison-Models.png)
 
 
 SafetyComparison_SampleResolutions:
+
 ![SafetyComparison_SampleResolutions](docs/SafetyComparison-SampleResolutions.png)
 
 
@@ -47,9 +50,11 @@ Efficiency_result:
 We also provide visulization of sample trajectories for two main algorithms.
 
 trajectories_ModifiedAdamBA:
+
 ![trajectories_ModifiedAdamBA](docs/SampleTrajectoriesModifiedAdamBA.png)
 
 trajectories_VanillaAdamBA:
+
 ![trajectories_VanillaAdamBA](docs/SampleTrajectoriesVanillaAdamBA.png)
 
 
